@@ -1,5 +1,7 @@
 # blog
 
+# strona www projektu: https://goofy-hamilton-3f5f09.netlify.app
+
 ## Project setup
 ```
 npm install
